@@ -70,10 +70,14 @@ min-height: 65px;
 
 
 button{
-  font-size: 18pt;
+  font-size: 24pt;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
   border: none;
 }
-
+button a {
+  padding-left: 5px;
+  padding-right: 5px;
+}
 .buttons {
 min-height: 145px;
 position: relative;
